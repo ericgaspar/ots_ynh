@@ -1,5 +1,5 @@
-SOURCE_URL=url of app's source
-SOURCE_SUM=sha256 checksum
+SOURCE_URL=https://github.com/Luzifer/ots/releases/download/v0.18.1/ots_linux_amd64.tar.gz
+SOURCE_SUM=4bcf415026be94167cc6de1d581a7298efe21ffef4eb496eb701fe480c4fb2cd
 SOURCE_SUM_PRG=sha256sum
 SOURCE_FORMAT=tar.gz
 SOURCE_IN_SUBDIR=true
