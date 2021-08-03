@@ -1,5 +1,5 @@
 SOURCE_URL=https://github.com/Luzifer/ots/releases/download/v0.18.1/ots_linux_amd64.tar.gz
-SOURCE_SUM=4bcf415026be94167cc6de1d581a7298efe21ffef4eb496eb701fe480c4fb2cd
+SOURCE_SUM=c2bd3eec7d646b4a10a3417c1cfd8bc08c216c9f2e0330587e172295c723debf
 SOURCE_SUM_PRG=sha256sum
 SOURCE_FORMAT=tar.gz
 SOURCE_IN_SUBDIR=
