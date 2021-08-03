@@ -91,16 +91,6 @@ ynh_script_progression --message="Configuring NGINX web server..." --weight=1
 ynh_add_nginx_config
 
 #=================================================
-# ADD A CONFIGURATION
-#=================================================
-# ynh_script_progression --message="Adding a configuration file..." --weight=1
-
-# ynh_add_config --template="some_config_file" --destination="$final_path/some_config_file"
-
-# chmod 400 "$final_path/some_config_file"
-# chown $app:$app "$final_path/some_config_file"
-
-#=================================================
 # SETUP SYSTEMD
 #=================================================
 ynh_script_progression --message="Configuring a systemd service..." --weight=1
