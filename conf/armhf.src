@@ -1,0 +1,7 @@
+SOURCE_URL=https://github.com/Luzifer/ots/releases/download/v0.22.0/ots_linux_arm.tar.gz
+SOURCE_SUM=be833127a708d92400be5b55381f047cbcaa594b012cc65018d35d320c7ad44b
+SOURCE_SUM_PRG=sha256sum
+SOURCE_FORMAT=tar.gz
+SOURCE_IN_SUBDIR=false
+SOURCE_FILENAME=ots
+SOURCE_EXTRACT=true

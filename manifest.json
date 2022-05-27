@@ -6,14 +6,13 @@
         "en": "One-Time-Secret sharing platform with a symmetric 256bit AES encryption in the browser",
         "fr": "Plateforme de partage One-Time-Secret avec un chiffrement AES 256 bits symétrique dans le navigateur"
     },
-    "version": "0.18.1~ynh1",
+    "version": "0.22.0~ynh1",
     "url": "https://ots.fyi/",
     "upstream": {
         "license": " Apache-2.0 License",
         "website": "https://github.com/Luzifer/ots",
         "demo": "https://ots.fyi/",
         "admindoc": "https://yunohost.org/packaging_apps",
-        "userdoc": "https://yunohost.org/apps",
         "code": "https://github.com/Luzifer/ots"
     },
     "license": " Apache-2.0 License",
